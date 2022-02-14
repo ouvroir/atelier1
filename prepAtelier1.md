@@ -44,6 +44,7 @@ Git: qu'est-ce que le versionnement?
 ce qu'on va faire: 
 
 1. mettre en ligne: create repository from local file & publish to github
+2. récupérer le contenu Ouvroir que je viens de créer en ligne 
 
 
 

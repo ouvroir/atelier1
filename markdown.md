@@ -13,6 +13,3 @@ tags:
 [Zoom](https://umontreal.zoom.us/s/82480661654?pwd=cUlzb09hZ3lkd2UvcmpPbTdmQkZBQT09#success)
 
 Ceci est une présentation / formation. 
-Test test 
-
-bra
