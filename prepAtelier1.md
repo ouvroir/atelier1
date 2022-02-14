@@ -1,5 +1,7 @@
 # Atelier #1: markdown et versionnement github
 
+#atelier
+#tech
 
 
 ## Intro
@@ -41,7 +43,8 @@ Tour de table et présentations (20min)
 - extension: utilisation pour la rédaction, intégration de la bibliographie avec Zotero (requiert un peu de temps)
 - markdown en ligne (collaboratif: hedgedoc) pour la prise de note collaborative
 
-## Pause (~10min)
+## Pause 
+(~10min)
 
 ## Git
 
@@ -71,7 +74,9 @@ créer un second .md pour les notes sur git
 - collaboration: inviter des personnes à rejoindre son repo
 - mise en ligne avec Github Pages
 
-
+## Comment continuer
+- face à un problème: rechercher des solutions sur google, demander à des proches, demander sur des formus ou par exemple, lors des cliniques numériques (à venir)
+- s'habituder à prendre des notes 
 
 ## Références, guides
 
