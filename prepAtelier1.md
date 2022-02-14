@@ -2,23 +2,30 @@
 
 
 
-## Plan
+## Intro
 
 Tour de table et présentations (20min)
 
 - présentation du labo
 - tour de table des participant·e·s
 
-Introduction au markdown (15min)
+
+## Markdown
+### Introduction au markdown 
+(15min)
 
 - présentation de l'interface
+    - gauche: dossiers/fichiers
+    - haut: export, insérer images et liens (attention à l'emplacement des images)
+    - droite: statistiques, pomodoro, barre: table des matières automatique, bibliographie, 
 - invitation à prendre des notes de l'atelier (ou à transférer le document entamé) en .md
   - créer un dossier sur l'ordinateur
   - l'ouvrir dans Zettlr
   - créer un fichier, l'enregistrer (toujours, tout de suite :wink:) 
 - premier tour du fonctionnement de base (headings, char, lists, quote, links, images), panes: toc, fileview, search)
 
-pourquoi utiliser markdown pour prendre des notes? (15min)
+### Pourquoi utiliser markdown pour prendre des notes? 
+(15min)
 
 - ne pas perdre de temps avec la mise en page
 - export vers pdf propre
@@ -27,88 +34,50 @@ pourquoi utiliser markdown pour prendre des notes? (15min)
 - liens, tags <!-- à tester!-->
 - apprendre la logique du markdown sert dans de plus en plus de logiciels et web apps
 
-Temps pour des questions - cas d'usages individuels (10min)
+### Temps pour des questions - cas d'usages individuels 
+(10min)
 
 - si personne n'a de question, expliquer le mien 
 - extension: utilisation pour la rédaction, intégration de la bibliographie avec Zotero (requiert un peu de temps)
+- markdown en ligne (collaboratif: hedgedoc) pour la prise de note collaborative
 
-Pause (~10min)
+## Pause (~10min)
+
+## Git
 
 créer un second .md pour les notes sur git
 
-Git: qu'est-ce que le versionnement? 
+### Git: qu'est-ce que le versionnement? 
 
 - conserver l'historique de modification d'un fichier
 - requiert un fichier "lisibile facilement" par la machine, comme markdown (aussi léger qu'un fichier texte, à l'opposé de Word)
+- git: protocole qui s'utilise de plusieurs façon: en ligne de commande, avec des logiciels
+- fait le pont entre une version locale (notre ordinateur) et une version sur un serveur en ligne. 
 
-ce qu'on va faire: 
+### Utiliser Github avec Github desktop: 
 
-1. mettre en ligne: create repository from local file & publish to github
-2. récupérer le contenu Ouvroir que je viens de créer en ligne 
+#### Mettre son propre dossier en ligne: 
+- create repository from local file 
+- publish to github
+- view it on github: what's a readme
+- make a change, view diff
+- commit / push, view online commit history
+#### Récupérer le contenu Ouvroir que je viens de créer en ligne 
+- clone :https://github.com/ouvroir/atelier1
+- fork
+- add comment? branch, pull request
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+#### Autres utilisations
+- collaboration: inviter des personnes à rejoindre son repo
+- mise en ligne avec Github Pages
 
 
 
+## Références, guides
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-## Prérequis
-
-Installation logicielle
-
-- markdown: 
-  - Zettlr
-  - online (pas d'installation) mais ne permet pas vraiment de tester du versionnement du coup
-- [github](https://desktop.github.com/) 
-
-Guide de base à consulter librement: https://itsfoss.com/markdown-guide/
-
+### Markdown
+Guide de base: https://itsfoss.com/markdown-guide/
 Outils markdown: https://itsfoss.com/best-markdown-editors-linux/
 
-## FOSS markdown 
-
-[Zettlr](https://www.zettlr.com/download) 
-
-- intégration zotero
-- install sur linux bug. À suivre
-
-[GitBook](https://www.gitbook.com/)
-
-- payant sauf si on arrive à demander un non-profit/open-source plan
-- en ligne
-- le travail collaboratif (live) est encore en beta mais on peut lier nos répertoires github et faire du versionnement!
-
-[StackEdit](https://stackedit.io/) 
-
-- en ligne (ou local mais install avec npm? )
-- synchronisation github/drive...
-- collaboration via la synchronisation (pas de live collaboration)
-- permet de commenter les fichiers md
-- dispo hors-ligne (comment?)
-- digrammes UML intégrés
+### Git
+[Atlassian](https://www.atlassian.com/fr/git)
