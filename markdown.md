@@ -12,4 +12,9 @@ tags:
 15 février 2022
 [Zoom](https://umontreal.zoom.us/s/82480661654?pwd=cUlzb09hZ3lkd2UvcmpPbTdmQkZBQT09#success)
 
+#bonjour
+
+
 Ceci est une présentation / formation. 
+
+je fais du ménage ici.
