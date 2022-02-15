@@ -9,9 +9,12 @@
 Tour de table et présentations (20min)
 
 - présentation du labo
+- rappel des prérequis: 
+  - créer un compte [Github](https://github.com/)
+  - télécharger [github desktop](https://desktop.github.com/) 
+  - télécharger l'éditeur de markdown [Zettlr](https://www.zettlr.com/download)
+
 - tour de table des participant·e·s
-
-
 
 
 ## Markdown
@@ -25,25 +28,29 @@ Tour de table et présentations (20min)
 - invitation à prendre des notes de l'atelier (ou à transférer le document entamé) en .md
   - créer un dossier sur l'ordinateur
   - l'ouvrir dans Zettlr
-  - créer un fichier, l'enregistrer (toujours, tout de suite :wink:) 
-- premier tour du fonctionnement de base (headings, char, lists, quote, links, images <!--attention emplacement-->, tags)
+  - créer un fichier, l'enregistrer (toujours en premier)
+  - premier tour du fonctionnement de base (headings, char, lists, quote, links, images <!--attention emplacement-->, tags)
+  - petit tour des paramètres
+
+### 
 
 ### Pourquoi utiliser markdown pour prendre des notes? 
 (15min)
 
+- écrire à l'ère du numérique: intégrer des liens facilement (ctrl+K), liberté dans les formats, une image n'a pas à faire sauter un document complet
 - ne pas perdre de temps avec la mise en page
 - export vers pdf propre
 - vue par dossier et non par document (passer rapidement de l'un à l'autre)
 - recherche dans tous les documents
-- liens, tags <!-- à tester!-->
+- liens, tags
 - apprendre la logique du markdown sert dans de plus en plus de logiciels et web apps
 
 ### Temps pour des questions - cas d'usages individuels 
 (10min)
 
-- si personne n'a de question, expliquer le mien 
-- Zettlr: utilisation pour la rédaction, intégration de la bibliographie avec Zotero (requiert un peu de temps)
-- typora: confort 
+- si personne n'a de question, expliquer mon use case lors de la commotion
+- cache: 
+- extension: utilisation pour la rédaction, intégration de la bibliographie avec Zotero (requiert un peu de temps)
 - markdown en ligne (collaboratif: hedgedoc) pour la prise de note collaborative
 
 ## Pause 
@@ -58,11 +65,11 @@ créer un second .md pour les notes sur git
 - conserver l'historique de modification d'un fichier
 - requiert un fichier "lisibile facilement" par la machine, comme markdown (aussi léger qu'un fichier texte, à l'opposé de Word)
 - git: protocole qui s'utilise de plusieurs façon: en ligne de commande, avec des logiciels
-- fait le pont entre une version locale (notre ordinateur) et une version sur un serveur en ligne. 
+- fait le pont entre une version locale (notre ordinateur: interface Github desktop) et une version sur un serveur en ligne (dans le navigateur). 
 
-### Utiliser Github avec Github desktop: 
+### Utiliser Git avec Github desktop
 
-#### Mettre son propre dossier en ligne: 
+#### Mettre son propre dossier en ligne
 - create repository from local file 
 - publish to github
 - view it on github: what's a readme
