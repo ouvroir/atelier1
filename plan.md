@@ -32,7 +32,6 @@ Tour de table et présentations (20min)
   - premier tour du fonctionnement de base (headings, char, lists, quote, links, images <!--attention emplacement-->, tags)
   - petit tour des paramètres
 
-### 
 
 ### Pourquoi utiliser markdown pour prendre des notes? 
 (15min)
