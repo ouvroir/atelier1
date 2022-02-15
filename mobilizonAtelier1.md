@@ -37,7 +37,7 @@ Si vous rencontrez des difficulté à installer les logiciels, des permanences s
 - mardi 8 février 13h à 15h
 - jeudi 10 février 12h à 14h
 - lundi 14 février de 16h à 18h
-    
+  
 
 L’atelier sera animé par Lena Krause, responsable du laboratoire. Il ne sera pas enregistré. Si vous souhaitez participer mais que la plage horaire ne convient pas, contactez ouvroir@umontreal.ca pour nous faire part de votre intérêt. Il est possible que nous organisions d’autres itérations de cet atelier.
 

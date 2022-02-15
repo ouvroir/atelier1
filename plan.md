@@ -81,7 +81,8 @@ créer un second .md pour les notes sur git
 - add comment? branch, pull request
 
 #### Autres utilisations
-- collaboration: inviter des personnes à rejoindre son repo
+- collaboration: inviter des personnes à rejoindre son repo ou à y contribuer
+- travail depuis deux ordinateurs séparés 
 - mise en ligne avec Github Pages
 
 ## Comment continuer
