@@ -34,9 +34,18 @@ Afin de concentrer l'atelier sur l'apprentissage collectif, nous demandons à to
 
 Si vous rencontrez des difficulté à installer les logiciels, des permanences sont tenues avant l'atelier:
 
-- 
+- mardi 8 février 13h à 15h
+- jeudi 10 février 12h à 14h
+- lundi 14 février de 16h à 18h
+    
 
+L’atelier sera animé par Lena Krause, responsable du laboratoire. Il ne sera pas enregistré. Si vous souhaitez participer mais que la plage horaire ne convient pas, contactez ouvroir@umontreal.ca pour nous faire part de votre intérêt. Il est possible que nous organisions d’autres itérations de cet atelier.
 
+---
+
+L’[_Ouvroir d’histoire de l’art et de muséologie numérique_](https://github.com/ouvroir/) de l’Université de Montréal, est un laboratoire de recherche destiné à soutenir le travail conduit dans le cadre du Partenariat « Des nouveaux usages des collections dans les musées d’art » ([_CIÉCO_](http://www.cieco.co)).
+
+Cet atelier est organisé en partenariat avec le [_Centre de recherche interuniversitaire sur les humanités numériques (CRIHN)_](https://www.crihn.org/)
 
 
 
