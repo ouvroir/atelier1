@@ -11,4 +11,4 @@ tags:
 # Git
 15 février 2022
 
-Ceci est un test de versionnement. v1
+Prise de notes à propos de git. Document à modifier pour montrer le versionnement.

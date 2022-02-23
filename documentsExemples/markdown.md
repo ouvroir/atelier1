@@ -16,5 +16,3 @@ tags:
 
 
 Ceci est une présentation / formation. 
-
-je fais du ménage ici.
